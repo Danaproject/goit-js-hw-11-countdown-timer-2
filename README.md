@@ -1,2 +1,6 @@
-# goit-js-hw-11-countdown-timer-2
- GoIT course JS homework
+# goit-js-hw-11-timer
+
+GoIT course JS homework
+
+# Countdown timer
+
